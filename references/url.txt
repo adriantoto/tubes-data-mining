@@ -1,0 +1,2 @@
+https://www.kaggle.com/benroshan/ecommerce-data
+https://towardsdatascience.com/understanding-consumer-behavior-with-the-market-basket-analysis-3d0c017e5613
